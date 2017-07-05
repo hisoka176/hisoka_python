@@ -1,0 +1,5 @@
+*.iml
+*.py[cod]
+*.py~
+/output
+/.idea
